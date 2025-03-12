@@ -809,7 +809,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tower 05 - Level 02 - Projectile - Impact_0: -2387981310322754668
+      Tower 05 - Level 02 - Projectile - Impact_1: 7694431066521456710
+      Tower 05 - Level 02 - Projectile - Impact_10: -6896974890204709806
+      Tower 05 - Level 02 - Projectile - Impact_11: 319119631109576873
+      Tower 05 - Level 02 - Projectile - Impact_12: 6721419652904701764
+      Tower 05 - Level 02 - Projectile - Impact_13: -8166648641589529537
+      Tower 05 - Level 02 - Projectile - Impact_14: 6963250850330006721
+      Tower 05 - Level 02 - Projectile - Impact_15: -7177481890269659327
+      Tower 05 - Level 02 - Projectile - Impact_16: -6321347265541546274
+      Tower 05 - Level 02 - Projectile - Impact_17: -1461562115891430517
+      Tower 05 - Level 02 - Projectile - Impact_18: 2975290288256833131
+      Tower 05 - Level 02 - Projectile - Impact_19: 3355817974948228182
+      Tower 05 - Level 02 - Projectile - Impact_2: -4122096371935594346
+      Tower 05 - Level 02 - Projectile - Impact_20: 1237366752768774663
+      Tower 05 - Level 02 - Projectile - Impact_21: -7937988547202463930
+      Tower 05 - Level 02 - Projectile - Impact_22: -7909717632217783098
+      Tower 05 - Level 02 - Projectile - Impact_23: 1761453489132485946
+      Tower 05 - Level 02 - Projectile - Impact_24: 4490009111108241730
+      Tower 05 - Level 02 - Projectile - Impact_25: -3281560020960126328
+      Tower 05 - Level 02 - Projectile - Impact_26: -3663209834128105004
+      Tower 05 - Level 02 - Projectile - Impact_27: -2847218581794323642
+      Tower 05 - Level 02 - Projectile - Impact_3: -222102507806021750
+      Tower 05 - Level 02 - Projectile - Impact_4: 2840199204822423893
+      Tower 05 - Level 02 - Projectile - Impact_5: -8467459420546364564
+      Tower 05 - Level 02 - Projectile - Impact_6: -7469392086327532380
+      Tower 05 - Level 02 - Projectile - Impact_7: -8498831082736810679
+      Tower 05 - Level 02 - Projectile - Impact_8: 5534462331374737746
+      Tower 05 - Level 02 - Projectile - Impact_9: 982419393636136246
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
