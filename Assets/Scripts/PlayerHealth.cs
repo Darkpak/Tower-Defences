@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEditor;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -31,7 +32,7 @@ public class PlayerHealth : MonoBehaviour
         if (_currentHealth <= 0)
         {
             Debug.Log("Game Over");
-            // Add game over logic here
+            EditorApplication.isPlaying = false;    
         }
     }
     
